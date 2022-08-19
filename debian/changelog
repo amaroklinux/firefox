@@ -1,0 +1,97 @@
+firefox (103.0.2~amarok1) stable; urgency=medium
+
+  * New upstream version for Amarok Linux OS
+  * 103.0.2
+
+ -- Amarok Linux <packages@amaroklinux.org>  Thu, 11 Aug 2022 20:05:28 -0300
+
+firefox (103.0~amarok1) bullseye; urgency=medium
+
+  * New upstream version for Amarok Linux 3
+  * 103.0
+
+ -- Amarok Linux <packages@amaroklinux.org>  Wed, 27 Jul 2022 21:48:04 -0300
+
+firefox (102.0.1~amarok1) bullseye; urgency=medium
+
+  * New upstream version for Amarok Linux 3
+  * 102.0.1
+
+ -- Amarok Linux <packages@amaroklinux.org>  Fri, 08 Jul 2022 20:18:21 -0300
+
+firefox (102.0~amarok1) bullseye; urgency=medium
+
+  * New upstream version for Amarok Linux 3
+  * 102.0
+
+ -- Amarok Linux <packages@amaroklinux.org>  Mon, 27 Jun 2022 20:02:32 -0300
+
+firefox (101.0.1~amarok1) bullseye; urgency=medium
+
+  * New upstream version for Amarok Linux 3
+  * 101.0.1
+
+ -- Amarok Linux <packages@amaroklinux.org>  Thu, 09 Jun 2022 22:32:33 -0300
+
+firefox (101.0~amarok1) bullseye; urgency=medium
+
+  * New upstream version for Amarok Linux 3
+  * 101.0
+
+ -- Amarok Linux <packages@amaroklinux.org>  Tue, 31 May 2022 11:56:54 -0300
+
+firefox (100.0.2~amarok1) bullseye; urgency=medium
+
+  * New upstream version for Amarok Linux 3
+  * 100.0.2
+
+ -- Amarok Linux <packages@amaroklinux.org>  Tue, 24 May 2022 09:42:30 -0300
+
+firefox (100.0~amarok1) bullseye; urgency=medium
+
+  * New upstream version for Amarok Linux 3
+  * 100.0
+
+ -- Amarok Linux <packages@amaroklinux.org>  Tue, 03 May 2022 20:37:47 -0300
+
+firefox (99.0.1~amarok1) bullseye; urgency=medium
+
+  * New upstream version for Amarok Linux 3
+  * 99.0.1
+
+ -- Amarok Linux <packages@amaroklinux.org>  Fri, 15 Apr 2022 14:10:23 -0300
+
+firefox (99.0~amarok1) bullseye; urgency=medium
+
+  * New upstream version for Amarok Linux 3
+  * 99.0
+
+ -- Amarok Linux <packages@amaroklinux.org>  Tue, 05 Apr 2022 18:30:55 -0300
+
+firefox (98.0.2~amarok1) amarok; urgency=medium
+
+  * New upstream version for Amarok Linux 3
+  * 98.0.2
+
+ -- Amarok Linux <packages@amaroklinux.org>  Fri, 25 Mar 2022 10:48:51 -0300
+
+firefox (98.0.1~amarok1) amarok; urgency=medium
+
+  * New upstream version for Amarok Linux 3
+  * 98.0.1
+
+ -- Amarok Linux <packages@amaroklinux.org>  Tue, 15 Mar 2022 10:59:53 -0300
+
+firefox (98.0~amarok1) amarok; urgency=medium
+
+  * New upstream version for Amarok Linux
+  * 98.0
+
+ -- Amarok Linux <packages@amaroklinux.org>  Thu, 10 Mar 2022 11:26:36 -0300
+
+firefox (97.0.1~amarok1) amarok; urgency=medium
+
+  * New upstream release for Amarok Linux 3
+  * 97.0.1
+
+ -- Amarok Linux <packages@amaroklinux.org>  Mon, 21 Feb 2022 12:13:41 -0300
