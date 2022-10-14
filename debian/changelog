@@ -1,3 +1,37 @@
+firefox (105.0.3~amarok1) stable; urgency=medium
+
+  * New upstream version for Amarok Linux OS
+
+ -- Amarok Linux <packages@amaroklinux.org>  Tue, 11 Oct 2022 10:21:21 -0300
+
+firefox (105.0~amarok1) stable; urgency=medium
+
+  * New upstream version for Amarok Linux OS
+  * 105.0
+
+ -- Amarok Linux <packages@amaroklinux.org>  Tue, 20 Sep 2022 13:21:02 -0300
+
+firefox (104.0.2~amarok1) stable; urgency=medium
+
+  * New upstream version for Amarok Linux OS
+  * 104.0.2
+
+ -- Amarok Linux <packages@amaroklinux.org>  Tue, 13 Sep 2022 22:17:00 -0300
+
+firefox (104.0.1~amarok1) stable; urgency=medium
+
+  * New upstream version for Amarok Linux OS
+  * 104.0.1
+
+ -- Amarok Linux <packages@amaroklinux.org>  Mon, 05 Sep 2022 19:04:30 -0300
+
+firefox (104.0~amarok1) stable; urgency=medium
+
+  * New upstream version for Amarok Linux OS
+  * 104.0
+
+ -- Amarok Linux <packages@amaroklinux.org>  Wed, 24 Aug 2022 19:14:36 -0300
+
 firefox (103.0.2~amarok1) stable; urgency=medium
 
   * New upstream version for Amarok Linux OS
